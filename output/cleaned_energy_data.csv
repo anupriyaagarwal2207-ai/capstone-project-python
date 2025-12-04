@@ -1,0 +1,25 @@
+timestamp,kwh,building
+2025-01-01 00:00:00,250,building_A_jan
+2025-01-01 06:00:00,270,building_A_jan
+2025-01-01 12:00:00,290,building_A_jan
+2025-01-01 18:00:00,310,building_A_jan
+2025-01-02 00:00:00,245,building_A_jan
+2025-01-02 06:00:00,265,building_A_jan
+2025-01-02 12:00:00,295,building_A_jan
+2025-01-02 18:00:00,305,building_A_jan
+2025-01-03 00:00:00,255,building_A_jan
+2025-01-03 06:00:00,275,building_A_jan
+2025-01-03 12:00:00,300,building_A_jan
+2025-01-03 18:00:00,320,building_A_jan
+2025-02-01 00:00:00,180,building_B_feb
+2025-02-01 06:00:00,200,building_B_feb
+2025-02-01 12:00:00,220,building_B_feb
+2025-02-01 18:00:00,240,building_B_feb
+2025-02-02 00:00:00,175,building_B_feb
+2025-02-02 06:00:00,195,building_B_feb
+2025-02-02 12:00:00,215,building_B_feb
+2025-02-02 18:00:00,235,building_B_feb
+2025-02-03 00:00:00,185,building_B_feb
+2025-02-03 06:00:00,205,building_B_feb
+2025-02-03 12:00:00,225,building_B_feb
+2025-02-03 18:00:00,245,building_B_feb
